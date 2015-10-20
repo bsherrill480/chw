@@ -7,5 +7,5 @@ int main() {
     printf("-\"-'-\"-'-\"-\n");
     printf("\\         /\n");
     printf(" \\_______/\n");
-    return 1;
+    return 0;
 }
